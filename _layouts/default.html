@@ -16,9 +16,9 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <!-- {% if site.title == 'Home' %} -->
+        {% if site.title == Home %}
           <img src="thumbnail.png"/>
-        <!-- {% endif %} -->
+        {% endif %}
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -26,7 +26,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.title == "Home" %}
+        {% if site.title == Home %}
         <p><h3>Contact Info</h3></p>
         <p>
             <li>email: <a href="mailto:schottml@email.arizona.edu">schottml@email.arizona.edu</a></li>
