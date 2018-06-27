@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #3d3d42;
+  background-color: #3b3b3d;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#e0e0e0;
@@ -42,7 +42,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#0099ee;
   font-weight: bold;
 }
 
@@ -94,12 +94,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:#aaaaaa;
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:#aaaaaa;
 }
 
 img {
