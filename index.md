@@ -15,4 +15,4 @@ As an adamant technophile, it would be remiss of me not to mention that I also h
 
 Check out the links below for more information on my current and past projects, photography, and contact information.
 
-#### [Page 2](https://schottml.github.io/page2.html) | [Page 3](https://schottml.github.io/page3.html)
+#### [Page 2](page2.md) | [Page 3](page3.md)

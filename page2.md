@@ -8,4 +8,4 @@ description: "This is a new description."
 
 The Sequel
 
-#### [Home](schottml.hithub.io) | [Page 3](page3.md)
+#### [Home](index.md) | [Page 3](page3.md)
