@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Michael Schott | Home"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
