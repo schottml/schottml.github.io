@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michael Schott | Home"
+title: "Home"
 ---
 
 # About Me
