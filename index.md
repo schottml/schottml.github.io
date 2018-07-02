@@ -8,7 +8,7 @@ title: "Home"
 Hello! Welcome to my website!
 Please pardon the dust and debris everywhere, we're still under construction. Don't let that deter you, though! Please, feel free to look around. If you'd like to help, let me know if you find any loose wires or dead links and I'll be sure to patch things up!
 
-![Under Construction](_images/construction_200dpi.png)
+![Under Construction](thumbnail.png)
 
 Follow the links below to get to actual content.
 
