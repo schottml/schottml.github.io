@@ -9,13 +9,17 @@ section, header {
     padding-top: 45px;
 }
 
+.wrapper{
+    align-content: center;
+}
+
 .topnav {
     overflow: hidden;
     background: #fff;
     position: fixed;
-    max-width: 840px; //860px - left-margin
+    max-width: 860px;
     top: 20px;
-    justify-content: center;
+    // justify-content: center;
     margin: 0 auto;
 }
 
