@@ -21,6 +21,7 @@ section, header {
 
 .topnav li {
     float: left;
+    list-style-type: none;
 }
 
 .topnav li a {
@@ -34,7 +35,7 @@ section, header {
   font-size: 17px;
 }
 
-.topnav a:hover, a:focus{
+.topnav li a:hover, a:focus{
   background-color: #ddd;
   color: #069;
   font-weight: bold;
@@ -70,7 +71,7 @@ section, header {
     font-weight: bold;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.topnav li a:hover, .dropdown:hover .dropbtn {
   background-color: #ddd;
   color: #069;
 }
