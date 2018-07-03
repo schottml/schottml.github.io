@@ -2,6 +2,8 @@
 layout: default
 title: "Home"
 ---
+#### [Home](index.md) | [About](about.md) |
+#### <details><summery>[Projects](projects.md)</summery><br/>[Personal Website](website.md)</details>
 
 # Home
 
@@ -11,5 +13,3 @@ Please pardon the dust and debris everywhere, we're still under construction. Do
 ![Under_Construction_image](images/construction_200dpi.png)
 
 Follow the links below to get to actual content.
-
-#### [Home](index.md) | [About](about.md)
