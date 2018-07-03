@@ -120,6 +120,9 @@ section, header {
     display: block;
     background: #fff;
   }
+  .topnav li:last-child{
+      display: block;
+  }
 }
 
 @media screen and (max-width: 700px) {
