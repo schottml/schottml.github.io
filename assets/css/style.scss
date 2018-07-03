@@ -19,7 +19,7 @@ section, header {
     margin: 0 auto;
 }
 
-.topnav li {
+.topnav a {
   // float: left;
   display: inline-block;
   color: #267CB9;
@@ -92,6 +92,10 @@ section, header {
 .dropdown-content a:hover {
   background-color: #ddd;
   color: #069;
+}
+
+.dropdown-content:hover .dropdown-content {
+    display: block;
 }
 
 .dropdown:hover .dropdown-content {
