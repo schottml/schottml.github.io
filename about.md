@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "About"
-logo: "/images/construction_200dpi.png"
 ---
 
 # About Me
