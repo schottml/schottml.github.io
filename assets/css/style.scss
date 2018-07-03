@@ -11,7 +11,7 @@ section, header {
 }
 
 .topnav {
-    overflow: hidden;
+    // overflow: hidden; //This seems like the reason why my dropdown menues never show up, so I'm turning it off. This isn't how w3schools has theirs set up, but it is beyond me how they managed to get this working so effortlessly. My guess is devilmagic, but I have nothing to support this claim.
     background: #fff;
     position: fixed;
     max-width: 860px;
