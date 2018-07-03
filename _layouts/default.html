@@ -15,32 +15,32 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-
-    <!-- This division will be responsible for a custom navigation bar -->
-    <div class="topnav">
-            <a href="index.html">Home<a/>
-            <a href="about.html">About<a/>
-            <a href="projects.html">Projects<a/>
-            <a href="page2.html">Placeholder<a/>
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
-    </div>
-
-    <script>
-    //Javascript taken from https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
-    // This adds the dynamic behavior of a dropdown menu for mobile devices
-    function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-            x.className += " responsive";
-        } else {
-            x.className = "topnav";
-        }
-    }
-    </script>
-
     <div class="wrapper">
+
+            <!-- This division will be responsible for a custom navigation bar -->
+            <div class="topnav">
+                    <a href="index.html">Home<a/>
+                    <a href="about.html">About<a/>
+                    <a href="projects.html">Projects<a/>
+                    <a href="page2.html">Placeholder<a/>
+                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                        <i class="fa fa-bars"></i>
+                    </a>
+            </div>
+
+            <script>
+            //Javascript taken from https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+            // This adds the dynamic behavior of a dropdown menu for mobile devices
+            function myFunction() {
+                var x = document.getElementById("myTopnav");
+                if (x.className === "topnav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "topnav";
+                }
+            }
+            </script>
+
       <header>
         <h1>{{ site.title | default: site.github.repository_name }} | {{page.title}}</h1>
         <!--<a href="{{ "/" | absolute_url }}"> </a> -->

@@ -5,12 +5,8 @@
 
 // The following CSS was modified from here: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
-div.wrapper {
-    top: 200px;
-}
-
 section, header {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .topnav {
@@ -20,7 +16,6 @@ section, header {
     width: 860px;
     top: 0;
     margin: 0 auto;
-
 }
 
 .topnav a {
