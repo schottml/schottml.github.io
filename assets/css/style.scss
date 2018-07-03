@@ -11,14 +11,13 @@ section, header {
 }
 
 .topnav {
-    // overflow: hidden;
+    overflow: hidden;
     background: #fff;
     position: fixed;
     max-width: 860px;
     top: 20px;
     // justify-content: center;
     margin: 0 auto;
-    z-index: 100;
 }
 
 .topnav li {
