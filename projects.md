@@ -18,9 +18,13 @@ Here's a list of the projects I've worked on:
     - List Item 2
 </details>
 
+<br>
+
 **This Should be a Dropdown with hyperlinks**
 <details>
-    <summary> [Link](home.md) <summary>
-    - [List Item 1](page2.md)
-    - [List Item 2](website.md)
+    <summary> <a href="home.md"> Link </a> <summary>
+    <ul>
+        <li><a href="page2.md">Link 1</a><li>
+        <li><a href="page3.md">Link 2</a><li>
+    <ul>
 </details>
