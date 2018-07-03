@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-#### [Home](index.md) | [About](about.md) | <details> <summary> [Projects](projects.md) </summary> [Personal Website](website.md) </details>
+#### [Home](index.md) | [About](about.md) | [Projects](projects.md)
 
 # Home
 
