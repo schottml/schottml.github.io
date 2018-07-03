@@ -8,8 +8,9 @@ title: "Projects"
 Here's a list of the projects I've worked on:
 - [Personal Website](website.md)
 
-## Let's Test Some Markdown!
+<!-- ## Let's Test Some Markdown! -->
 
+<!-- NOTE: None of this works!!
 **This Should be a Dropdown**
 <details>
     <summary> Dropdown </summary>
@@ -27,4 +28,4 @@ Here's a list of the projects I've worked on:
         <li><a href="page2.md">Link 1</a><li>
         <li><a href="page3.md">Link 2</a><li>
     <ul>
-</details>
+</details> -->
