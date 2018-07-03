@@ -11,7 +11,7 @@ section, header {
 
 .topnav {
     overflow: hidden;
-    background: #fff;
+    background: #ddd;
     position: fixed;
     width: 860px;
     top: 0;
@@ -29,7 +29,7 @@ section, header {
 }
 
 .topnav a:hover, a:focus{
-  background-color: #ddd;
+  background-color: #bbb;
   color: #069;
   font-weight: normal;
 }

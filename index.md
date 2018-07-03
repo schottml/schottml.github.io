@@ -11,4 +11,4 @@ Please pardon the dust and debris everywhere, we're still under construction. Do
 
 ![Under_Construction_image](images/construction_200dpi.png)
 
-Follow the links below to get to actual content.
+Actual content can be found by following the links at the top.
