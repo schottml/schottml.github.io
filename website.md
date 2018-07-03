@@ -1,9 +1,9 @@
 ---
 format: default
-title: "Personal Website"
+title: "Research Website"
 ---
 
-# Personal Website
+# Research Website
 
 Yes! It's true! The very site you're on right now is one of my projects!
 
