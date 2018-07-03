@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+div.content{
+    position:relative;
+}
+
 div.navbar{
     position: static;
     background: #fff;
