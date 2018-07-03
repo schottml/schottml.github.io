@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ page.title | default: site.github.repository_name }}</h1>
         <!--<a href="{{ "/" | absolute_url }}"> </a> -->
 
         <!-- {% if site.title == Home %}
@@ -53,6 +53,11 @@
         </ul>
         {% endif %}
       </header>
+      <!-- <div class="navbar">
+          <ul>
+              <li><a href="index.md">Home</a></li>
+          </ul>
+      </div> -->
       <section>
 
       {{ content }}
