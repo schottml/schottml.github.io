@@ -13,10 +13,10 @@ section, header {
     overflow: hidden;
     background: #fff;
     position: fixed;
-    width: 840px; //860px - left-margin
+    max-width: 840px; //860px - left-margin
     top: 20px;
     justify-content: center;
-    margin: 0 auto;
+    margin: auto auto;
 }
 
 .topnav a {
