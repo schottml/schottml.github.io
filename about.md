@@ -13,6 +13,6 @@ I borrowed a SONY α58 DSLR for an elective in photojournalism that I took back 
 
 As an adamant technophile, it would be remiss of me not to mention that I also hobby in computer hardware. Having assembled three new desktops and repaired a fourth, I'm always on the lookout for another computer build. Though it's not currently in the budget, I'd like to some day build and run my own dedicated home server, even if it's for no other reason than just saying that I managed to get it working.
 
-Check out the links below for more information on my current and past projects, photography, and contact information.
+Check out some of my projects for more information.
 
 #### [Home](index.md) | [About](about.md)
