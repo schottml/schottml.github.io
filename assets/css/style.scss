@@ -114,11 +114,11 @@ section, header {
 //The following CSS contains Media Queries to adjust to mobile formatting when the screen size is too small.
 
 @media screen and (max-width: 700px) {
-  .topnav li a:not(:first-child) {display: none;}
+  .topnav li:not(:first-child) {display: none;}
   .topnav li a.icon {
     float: right;
     display: block;
-    background: #ddd;
+    background: #fff;
   }
 }
 
