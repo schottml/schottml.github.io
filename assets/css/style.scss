@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+div.content{
+    position:relative;
+    top: 100px;
+}
+
 div.navbar{
-    position: fixed;
+    position: static;
     background: #fff;
     padding-bottom: 10px;
 }
