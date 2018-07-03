@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+logo: "/images/construction_200dpi.png"
 ---
 
 # About Me
@@ -15,4 +16,4 @@ As an adamant technophile, it would be remiss of me not to mention that I also h
 
 Check out some of my projects for more information.
 
-#### [Home](index.md) | [About](about.md)
+<!-- #### [Home](index.md) | [About](about.md) -->
