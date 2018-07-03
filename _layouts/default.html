@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ page.title | default: site.github.repository_name }}</h1>
+        <h1>{{ site.title | default: site.github.repository_name }} | {{page.title}}</h1>
         <!--<a href="{{ "/" | absolute_url }}"> </a> -->
 
         <!-- {% if site.title == Home %}
