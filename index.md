@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 #### [Home](index.md) | [About](about.md) |
-#### <details><summery>[Projects](projects.md)</summery><br/>[Personal Website](website.md)</details>
+#### <details> <summary>[Projects](projects.md)</summary> <br/>[Personal Website](website.md)</details>
 
 # Home
 
