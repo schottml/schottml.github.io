@@ -5,13 +5,16 @@
 
 // The following CSS was modified from here: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
+.wrapper {
+    top: 50px;
+}
+
 .topnav {
     overflow: hidden;
     background: #fff;
     position: fixed;
     top: 0;
     left: 30%;
-    padding-bottom: 50px;
 }
 
 .topnav a {
