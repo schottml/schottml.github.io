@@ -6,7 +6,11 @@
 // The following CSS was modified from here: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
 div.wrapper {
-    top: 100px;
+    top: 200px;
+}
+
+section, header {
+    padding-top: 100px;
 }
 
 .topnav {
@@ -15,6 +19,7 @@ div.wrapper {
     position: fixed;
     width: 860px;
     top: 0;
+    margin: 0 auto;
 
 }
 
@@ -31,7 +36,7 @@ div.wrapper {
 .topnav a:hover, a:focus{
   background-color: #ddd;
   color: #069;
-  font-style: normal;
+  font-style: normal !important;
 }
 
 .active {
