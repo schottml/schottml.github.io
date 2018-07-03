@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 div.content{
-    position:relative;
-    top: 100px;
+    position:static;
+    top: 30px;
 }
 
 div.navbar{
-    position: static;
+    position: fixed;
     background: #fff;
     padding-bottom: 10px;
 }
