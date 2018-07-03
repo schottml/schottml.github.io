@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 div.navbar{
-    position: fixed;
+    position: static;
     background: #fff;
+    padding-bottom: 10px;
 }
 
 ul.navbar {
