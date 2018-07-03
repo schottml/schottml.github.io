@@ -12,6 +12,12 @@
     <![endif]-->
   </head>
   <body>
+    <div class="navbar">
+        <ul class="navbar">
+            <li class="navbar"><a href="index.md">Home</a></li>
+            <li class="navbar"><a href="about.md">About</a></li>
+        </ul>
+    </div>
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }} | {{page.title}}</h1>
@@ -54,12 +60,6 @@
         {% endif %}
       </header>
       <section>
-          <div class="navbar">
-              <ul class="navbar">
-                  <li class="navbar"><a href="index.md">Home</a></li>
-                  <li class="navbar"><a href="about.md">About</a></li>
-              </ul>
-          </div>
           <br/>
           <div class="content">
               {{ content }}
