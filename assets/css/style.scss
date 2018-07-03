@@ -15,6 +15,7 @@ section, header {
     position: fixed;
     width: 840px; //860px - left-margin
     top: 10px;
+    align-content: center;
     margin: 0 auto;
 }
 
@@ -26,13 +27,14 @@ section, header {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-weight: bold;
   font-size: 17px;
 }
 
 .topnav a:hover, a:focus{
   background-color: #ddd;
   color: #069;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .active {
