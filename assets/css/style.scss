@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 div.navbar{
-    background:#303030;
+    position: fixed;
+    background: #fff;
 }
 
 ul.navbar {
@@ -13,6 +14,10 @@ ul.navbar {
     padding: 0;
     // width: ;
     // background: ;
+}
+
+li.navbar{
+    float: left;
 }
 
 li.navbar a {
