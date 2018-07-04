@@ -15,6 +15,7 @@ Because this project is still under construction, all dev notes will be posted h
 - [X] Navbar
 - [X] Navbar Dropdown
 - [ ] Navbar Mobile
+- [ ] Content Overflow
 - [ ] Headshot
 - [ ] Posts
 
@@ -27,6 +28,7 @@ The overall plan for this site is to act as a live update platform for all of my
 - (DONE) The **Navbar** needs to be tweaked still. Once the CSS for that is done and working, then I can start adding other pages.
 - (DONE) This navbar also requires a **dropdown menu** for "Projects".
 - The Navbar is broken when the screen size is smaller than 700px. **Navbar Mobile** needs fixing.
+- The **Content** panel shows up underneath the navbar, which is gross. This needs to be patched.
 - I need a **headshot** for the header column. This is, unfortunately, dependent on me remembering my camera.
 - Update the **header description** to include my work address, work number, and email.
 - Get **posts** working. This will be my method for updating projects. [link](https://jekyllrb.com/docs/posts/). The format will be blog-like, with a page containing links to all previous posts in reverse chronological order.
