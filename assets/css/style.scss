@@ -89,8 +89,7 @@ section, header {
 }
 
 .dropdown-content a {
-  float: none;
-  clear: both;
+  float: none !important;
   font-size: 14px !important;
   font-weight: normal !important;
   color: #267CB9;
@@ -112,7 +111,7 @@ section, header {
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+    display: block;
 }
 
 
