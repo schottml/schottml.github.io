@@ -29,7 +29,10 @@ header {
 .topnav li {
     float: left;
     list-style-type: none;
-    border-right: 1px solid #595959;
+}
+
+.topnav li:not(:last-child) {
+    border-right: 2px solid #bbb;
 }
 
 .topnav li a {
