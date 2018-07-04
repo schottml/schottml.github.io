@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# schottml.github.io
 
-You can use the [editor on GitHub](https://github.com/schottml/schottml.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains all files that make up my research website. This project uses a modified version of the Jekyll "Minimal" theme provided by [orderedlist](https://github.com/orderedlist). To view the final html, please go to [schottml.github.io](schottml.github.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+# Home
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello! Welcome to my website!
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Purpose
 
-- Bulleted
-- List
+The purpose of this site is to serve as a living record of my work on ongoing projects as well as a curated repository of descriptions of previous projects. Not everything that I work on is deserving of a place on this site, so if you're brave enough to bear some truly atrocious code, all of my projects, both good and ugly, will be available through my [personal GitHub](https://github.com/FishmanDefender) page. You may notice that I also have a [curated GitHub](https://github.com/schottml), which I'll also use to highlight projects that I'm particularly proud of.
 
-1. Numbered
-2. List
+Please, look around and feel free to contact me if you have any questions!
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Under Construction
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please pardon the dust and debris everywhere, we're still under construction. Don't let that deter you, though! Please, feel free to look around. If you'd like to help, let me know if you find any loose wires or dead links and I'll be sure to patch things up!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schottml/schottml.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Under_Construction_image](images/construction_200dpi.png)

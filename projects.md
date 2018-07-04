@@ -3,6 +3,8 @@ format: default
 title: "Projects"
 ---
 
+<!-- NOTE: THIS PAGE IS DEAD! -->
+
 # Projects
 
 Here's a list of the projects I've worked on:
