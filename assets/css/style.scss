@@ -126,11 +126,14 @@ section, header {
 }
 
 @media screen and (max-width: 700px) {
-  .topnav.responsive {position: relative;}
+  .topnav.responsive li {position: relative;}
   .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
+      float: right;
+      display: block;
+      background: #fff;
+    // position: absolute;
+    // right: 0;
+    // top: 0;
   }
   .topnav.responsive li a {
     float: none;
