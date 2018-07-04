@@ -5,6 +5,8 @@ title: "MOND Project"
 
 # MOND Project
 
+---
+
 **[View the Project on GitHub](https://github.com/wagoner47/mond_project)**
 
 This project was done as a part of the PHYS 589 course "Tools in Theoretical Astrophysics" offered at the University of Arizona though the Physics Department. The course instructor was Dr. Eduardo Rozo.

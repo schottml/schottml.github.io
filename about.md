@@ -5,6 +5,8 @@ title: "About"
 
 # About Me
 
+---
+
 I am a third year grad student in physics at the University of Arizona. My research interests include the use of machine learning algorithms and big data processing techniques to investigate physics phenomena ranging from the evolution of structure in the early universe to the detection and characterization of dark matter particle candidates.
 
 Having spent over a decade in Boy Scouts and being an Eagle Scout, I enjoy most kinds of outdoor activities, especially hiking, camping, fishing, and kayaking. Though I don't get out as much as I used to, I still swear that little else can beat a good camping trip.
