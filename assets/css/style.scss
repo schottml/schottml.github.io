@@ -96,7 +96,7 @@ section, header {
   min-width: 160px;
   padding: 12px 16px;
   text-decoration: none;
-  display: block;
+  display: block !important;
   text-align: left;
   z-index: 100;
 }
@@ -107,7 +107,7 @@ section, header {
 }
 
 .dropdown-content:hover .dropdown-content {
-    display: block;
+    display: block !important;
 }
 
 .dropdown:hover .dropdown-content {
