@@ -131,7 +131,10 @@ header {
   .topnav li:not(:first-child) {display: none;}
   .topnav {
       width: 90vw;
-      padding-bottom: 20px;
+      padding-bottom: 2px;
+  }
+  header{
+      padding-top: 100px !important;
   }
   .topnav li a.icon {
     float: right;
