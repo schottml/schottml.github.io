@@ -145,12 +145,12 @@ header {
   .topnav.responsive {width: 90vw}
   .topnav.responsive .icon {
     position: absolute;
-    right: 0;
+    right: 20;
     top: 0;
   }
   .topnav.responsive li {
     float: none;
-    display: block;
+    display: block !important;
     text-align: left;
   }
 }
