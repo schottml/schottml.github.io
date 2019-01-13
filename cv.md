@@ -7,4 +7,4 @@ title: "CV"
 
 ---
 
-- [CV](/documents/Michael_Schott_CV_1-13-19.pdf)
+- [CV](/documents/Michael_Schott_CV_1-13-19_NoRS.pdf)
